@@ -1,0 +1,7 @@
+{
+    "[zig]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ziglang.vscode-zig",
+        "files.eol": "\n"
+    }
+}
